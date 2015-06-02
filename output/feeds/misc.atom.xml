@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Smith Family</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2015-06-02T10:30:00+02:00</updated><entry><title>Family Members</title><link href="/family-members.html" rel="alternate"></link><updated>2015-06-02T10:30:00+02:00</updated><author><name>Fred Smith</name></author><id>tag:,2015-06-02:family-members.html</id><summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://fred.smith.bz/"&gt;Fred&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://jedigurl.com/"&gt;Jessica&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://andrew.smith.bz/"&gt;Andrew&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://sean.smith.bz/"&gt;Sean&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary></entry></feed>
