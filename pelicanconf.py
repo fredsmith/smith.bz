@@ -2,13 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Fred Smith'
+AUTHOR = u'Smith Family'
 SITENAME = u'Smith Family'
 SITEURL = ''
 
 PATH = 'content'
+THEME = '../pelican-svbtle'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
@@ -20,10 +21,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Fred', 'http://fred.smith.bz/'),
+        ('Jessica', 'http://jedigurl.com/'),
+        ('Andrew', 'http://andrew.smith.bz/'),
+        ('Sean', 'http://sean.smith.bz/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
